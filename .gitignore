@@ -1,0 +1,8 @@
+# macOS metadata
+.DS_Store
+
+# Editor and temporary files
+.vscode/
+.idea/
+~$*
+
